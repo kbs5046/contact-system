@@ -1,5 +1,5 @@
 This is Spring Boot Application and below are the steps. 
- 
+- Do mvn clean install  
 - Run ContactSystApplication.java  
 - Application URL: http://localhost:8080/contact-sys  
 - H2 Console URL: http://localhost:8080/contact-sys/h2-console
